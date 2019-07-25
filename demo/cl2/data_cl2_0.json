@@ -1,0 +1,357 @@
+{
+  "currentState": {
+    "7438505215768889": {
+      "source": "www",
+      "schema": { "name": "netflixApp", "version": "1.28.212" },
+      "type": ["Log", "Session"],
+      "id": 7438505215768889,
+      "sequence": 1,
+      "time": 1563862010819
+    },
+    "7438505527198770": {
+      "nfvdid": "BQFmAAEBEKPlM8NNzclpgXGYdDv2tfdgwKZ1pabjcyZyC%2F5Tk%2F2VUaETvP%2FaJFEvvwmUz5MFZL%2Fgln9cJ3kj%2BscEWMYNkGPMrzFFyTWYjSX8O52hyfmnWLf3AHhqKMhAZi8cdi8Isf1pVw%2BkmMQvzB1cOD6s0XdH",
+      "type": ["VisitorDeviceId", "AccountIdentity", "Session"],
+      "id": 7438505527198770,
+      "sequence": 3,
+      "time": 1563862010821
+    },
+    "7438505274497974": {
+      "uiLocale": "en-IN",
+      "type": ["UiLocale"],
+      "id": 7438505274497974
+    },
+    "7438505318042852": {
+      "utcOffset": 19800000,
+      "type": ["TimeZone"],
+      "id": 7438505318042852
+    },
+    "7438505349474205": {
+      "esn": "NFCDFF-LX-FLE8V6LWD6WM5T88U3DJWMW6QR8D8C",
+      "type": ["Esn"],
+      "id": 7438505349474205
+    },
+    "7438505398123419": {
+      "cells": {
+        "8101": 1,
+        "9107": 4,
+        "9459": 2,
+        "9655": 3,
+        "10668": 3,
+        "11821": 1,
+        "12137": 1,
+        "12187": 1,
+        "12261": 1,
+        "12350": 4,
+        "12409": 3,
+        "12471": 2,
+        "12491": 5,
+        "12550": 2,
+        "12800": 1,
+        "13489": 2,
+        "13669": 1,
+        "14005": 1,
+        "14536": 728,
+        "14959": 1,
+        "15228": 230,
+        "15367": 1,
+        "15448": 2
+      },
+      "type": ["TestAllocations"],
+      "id": 7438505398123419
+    },
+    "7438505411018019": {
+      "cluster": "nq_website_core-prod-release",
+      "type": ["www.Cluster"],
+      "id": 7438505411018019
+    },
+    "7438505434159585": {
+      "appVersion": "shakti-vf2b22a1f",
+      "type": ["AppVersion"],
+      "id": 7438505434159585
+    },
+    "7438505499645274": {
+      "uiVersion": "shakti-vf2b22a1f",
+      "type": ["UiVersion"],
+      "id": 7438505499645274
+    },
+    "7438505543531340": {
+      "profileGuid": "NGKQI4GTGRFA3L3GKG3O6OLE54",
+      "type": ["ProfileGuid", "ProfileIdentity", "Session"],
+      "id": 7438505543531340,
+      "sequence": 4,
+      "time": 1563862010821
+    },
+    "7438505606830541": {
+      "targetName": "standard",
+      "type": ["www.JsBuildTarget"],
+      "id": 7438505606830541
+    },
+    "7438505672384237": {
+      "url": "/watch/80988062?trackId=13752289&tctx=0%2C0%2Caafe9071-291b-437d-b13f-0c8736192da3-182697245%2C%2C",
+      "referrerUrl": "https://www.netflix.com/search?q=bander&jbv=80988062&jbp=0&jbr=0",
+      "type": ["Webpage"],
+      "id": 7438505672384237
+    },
+    "7438505713278051": {
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0",
+      "type": ["UserAgent"],
+      "id": 7438505713278051
+    },
+    "7438505792975015": {
+      "time": 1563862008771,
+      "view": "playback",
+      "type": ["NavigationLevel", "Session"],
+      "id": 7438505792975015,
+      "sequence": 7
+    },
+    "7438505959577502": { "type": ["MediaPlayer"], "id": 7438505959577502 },
+    "7438506263830280": {
+      "trackingInfo": {
+        "trackId": 13752289,
+        "videoId": 80988062,
+        "rowNum": 0,
+        "rankNum": 0,
+        "requestId": "aafe9071-291b-437d-b13f-0c8736192da3-182697245",
+        "listId": "",
+        "lolomoId": "",
+        "mediaOffset": null
+      },
+      "playerId": 7438505959577502,
+      "type": ["Play", "Action", "Session"],
+      "id": 7438506263830280,
+      "sequence": 15,
+      "time": 1563862015563
+    },
+    "7438506165251418": {
+      "inputTime": 1563862015405,
+      "type": ["UserInputTime"],
+      "id": 7438506165251418
+    },
+    "7438506232313623": {
+      "xid": "15638620118097",
+      "sharedUuid": "watch-fc6cd105-ba2b-46d8-a0b1-2a31a9143d79",
+      "playerId": 7438505959577502,
+      "type": ["Xid"],
+      "id": 7438506232313623
+    },
+    "7438511197620624": {
+      "state": {
+        "p_sp": true,
+        "p_tt": true,
+        "p_8a": false,
+        "p_td": true,
+        "p_cs": false,
+        "p_w1": false,
+        "p_2b": false,
+        "p_3j": false,
+        "p_pt": false,
+        "p_cd": false,
+        "p_cj": false,
+        "p_sj": false,
+        "p_sj2": false,
+        "p_tud": false,
+        "p_lsd": false,
+        "p_vh": false,
+        "p_3l": false,
+        "p_3s": false,
+        "p_3z": false,
+        "p_ps": "n",
+        "p_wb": false,
+        "p_kd": false,
+        "p_bo": false,
+        "p_5v": false,
+        "p_pc": "n",
+        "p_sc": false,
+        "p_ty": false,
+        "p_cm": false,
+        "p_pr": false,
+        "p_3ad": false,
+        "p_s3af": false,
+        "p_nf": false,
+        "p_np": false,
+        "p_ne": false,
+        "p_pp": false,
+        "p_tp": false,
+        "p_bup": false,
+        "p_be": false,
+        "p_pe": false,
+        "p_pae": false,
+        "p_te": false,
+        "p_snt": false,
+        "p_8j": false,
+        "p_8d": false,
+        "p_8m": false,
+        "p_8q": false,
+        "p_8s": false,
+        "p_8v": false,
+        "p_vs": "n",
+        "p_scs": false,
+        "p_3ab": false,
+        "p_3ac": false,
+        "p_3aj": false,
+        "p_3ah": false,
+        "p_3ak": false,
+        "p_3al": false,
+        "p_3af": false,
+        "p_5h": false,
+        "p_5ac": false,
+        "p_5ag": false,
+        "p_5ad": false,
+        "p_6c": false
+      },
+      "type": ["iko.UserState"],
+      "id": 7438511197620624
+    },
+    "7438512097866254": {
+      "trackingInfo": {
+        "xid": "15638620118097",
+        "segmentId": "1E",
+        "mediaOffset": 153119,
+        "viewableId": 80988062
+      },
+      "type": ["iko.VideoSegment", "Session"],
+      "id": 7438512097866254,
+      "sequence": 33,
+      "time": 1563862170425
+    }
+  },
+  "reverseDeltas": [
+    [
+      {
+        "type": ["SessionEnded"],
+        "id": 7438511797318327,
+        "sequence": 28,
+        "time": 1563862166884,
+        "duration": 10004,
+        "sessionId": 7438511380835693
+      },
+      {
+        "view": "ikoChoicePointOverlay",
+        "trackingInfo": {},
+        "type": ["Presentation", "Session"],
+        "id": 7438511380835693,
+        "sequence": 26,
+        "time": 1563862156880
+      },
+      1
+    ],
+    [1],
+    [
+      {
+        "type": ["SessionEnded"],
+        "id": 7438511848203208,
+        "sequence": 30,
+        "time": 1563862166899,
+        "duration": 10018,
+        "sessionId": 7438511435174447
+      },
+      {
+        "maxDuration": 10000,
+        "type": ["Countdown", "Session"],
+        "id": 7438511435174447,
+        "sequence": 27,
+        "time": 1563862156881
+      },
+      1
+    ],
+    [
+      {
+        "type": ["SessionEnded"],
+        "id": 7438511878380193,
+        "sequence": 31,
+        "time": 1563862166900,
+        "duration": 2,
+        "sessionId": 7438511832203880
+      },
+      {
+        "view": "ikoChoicePointOption",
+        "trackingInfo": { "segmentId": "1E" },
+        "type": ["Focus", "Session"],
+        "id": 7438511832203880,
+        "sequence": 29,
+        "time": 1563862166898
+      },
+      {
+        "mediaOffset": 149201,
+        "playerId": 7438505959577502,
+        "type": ["MediaOffset"],
+        "id": 7438511747309065
+      },
+      2
+    ],
+    [
+      {
+        "type": ["SessionEnded"],
+        "id": 7438512066417616,
+        "sequence": 32,
+        "time": 1563862170424,
+        "duration": 156101,
+        "sessionId": 7438506134111752
+      },
+      {
+        "trackingInfo": {
+          "xid": "15638620118097",
+          "segmentId": "1A",
+          "mediaOffset": 1,
+          "viewableId": 80988062
+        },
+        "type": ["iko.VideoSegment", "Session"],
+        "id": 7438506134111752,
+        "sequence": 14,
+        "time": 1563862014323
+      },
+      1
+    ],
+    [1],
+    [
+      {
+        "type": ["SessionEnded"],
+        "id": 7438512127178761,
+        "sequence": 34,
+        "time": 1563862170446,
+        "duration": 17543,
+        "sessionId": 7438511222373408
+      },
+      {
+        "view": "ikoChoicePoint",
+        "trackingInfo": {
+          "momentId": "80988062_1A",
+          "expectedVideoOffset": 135880,
+          "mediaOffset": 136206,
+          "choices": [
+            {
+              "id": "1E",
+              "segmentId": "1E",
+              "startTimeMs": 153520,
+              "default": true,
+              "hasWatched": false
+            },
+            {
+              "id": "1D",
+              "segmentId": "1D",
+              "startTimeMs": 5442480,
+              "default": false,
+              "hasWatched": false
+            }
+          ],
+          "uiDisplayMs": 139520,
+          "viewableId": 80988062,
+          "xid": "15638620118097"
+        },
+        "type": ["Presentation", "Session"],
+        "id": 7438511222373408,
+        "sequence": 25,
+        "time": 1563862152903
+      },
+      {
+        "mediaOffset": 153119,
+        "playerId": 7438505959577502,
+        "type": ["MediaOffset"],
+        "id": 7438512018396212
+      }
+    ]
+  ],
+  "type": "CompactConsolidatedLoggingEnvelope",
+  "version": 2,
+  "clientSendTime": 1563862171884
+}
