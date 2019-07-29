@@ -4,5 +4,5 @@
 -   run cmd `jupyter notebook`
 
 # How to run code in Jupyter Notebook
--   select a sell and press `shift + enter`
+-   select a cell and press `shift + enter`
 
